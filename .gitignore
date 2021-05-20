@@ -3,3 +3,12 @@ Lib
 Include
 __pycache__
 pyvenv.cfg
+Data.py
+HEAD
+SINTAXE_TESTES.txt
+config
+description
+hooks/
+info/
+testes.py
+
