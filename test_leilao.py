@@ -22,7 +22,6 @@ class TestLeilao(TestCase):
             self.leilao.propoe(self.lance_bia)
             self.leilao.propoe(self.lance_gui)
 
-
     def test_deve_retornar_maior_e_menor_lance_quando_adicionado_um_lance(self):
         self.leilao.propoe(self.lance_gui)
 
