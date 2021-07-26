@@ -1,5 +1,5 @@
 from excecoes import LanceInvalido
-from leilao import Usuario, Leilao
+from leilao import Usuario,Leilao
 import pytest
 
 class TestUsuario:
